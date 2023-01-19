@@ -38,6 +38,9 @@ export default defineConfig({
           },
         },
       },
+      colors: {
+        primary: '#0a192f',
+      },
     },
   },
 })
